@@ -1,0 +1,7 @@
+venv
+C:\Users\Akshit\Desktop\DeepDream-Image-Generator\venv
+results
+data
+__pycache__
+data\cifar-10-batches-py
+data\cifar-10-python.tar.gz
