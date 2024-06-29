@@ -1,3 +1,5 @@
+
+
 # Yes, in this setup, both real and fake images are fed to the discriminator, while only fake images are fed to the generator. Here's the detailed reasoning behind this approach:
 
 # ### Discriminator Training
