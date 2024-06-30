@@ -5,3 +5,7 @@ data
 __pycache__
 data\cifar-10-batches-py
 data\cifar-10-python.tar.gz
+C:\Users\Akshit\Desktop\DeepDream-Image-Generator\results
+animeimages
+app\static\generated
+app\uploads

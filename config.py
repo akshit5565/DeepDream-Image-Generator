@@ -4,7 +4,7 @@ manual_seed = 42
 batch_size = 128
 image_size = 32
 latent_dim = 100
-num_epochs = 1
+num_epochs = 2
 lr = 0.0002
 beta1 = 0.5
 

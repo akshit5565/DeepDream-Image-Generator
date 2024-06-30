@@ -1,0 +1,32 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Image</title>
+</head>
+<body>
+    <h1>Generated Image</h1>
+    <img src="{{ output_image }}" alt="Generated Image">
+    <br>
+    <a href="{{ url_for('index') }}">Generate Another Image</a>
+</body>
+</html> -->
+
+
+<!-- result.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generated Image</title>
+</head>
+<body>
+    <h1>Generated Image</h1>
+    <img src="{{ url_for('static', filename='generated/output.png') }}" alt="Generated Image">
+    <br><br>
+    <a href="/">Back to Upload</a>
+</body>
+</html>
